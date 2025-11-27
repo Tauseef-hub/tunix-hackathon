@@ -1,0 +1,17 @@
+notepad requirements.txt
+```
+
+Paste and save:
+```
+# Core
+datasets>=2.14.0
+transformers>=4.35.0
+torch>=2.0.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Utilities
+tqdm
+python-dotenv
